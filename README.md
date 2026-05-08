@@ -39,7 +39,7 @@ and turn manual ops work into reliable, observable systems.</i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" title="Packer" alt="Packer" width="55" height="55"/>&nbsp;
-  <img src="https://https://cdn.simpleicons.org/vault/FFEC6E" title="HashiCorp Vault" alt="Vault" width="55" height="55"/>
+  <img src="https://cdn.simpleicons.org/vault/FFEC6E" title="HashiCorp Vault" alt="Vault" width="55" height="55"/>
 </p>
 
 #### 🐳 Containers & Orchestration
